@@ -84,13 +84,13 @@ namespace lab4
 
 			//8 No brackets.
 
-			for (int ii = 0; ii < 101; i++) {
+			for (int ii = 0; ii < 101; ii++) {
 				Console.WriteLine(ii);
 				Console.WriteLine("********");
 				}
 
 
-
+			Console.ReadLine();
 
 
 		}
